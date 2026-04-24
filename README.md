@@ -5,6 +5,10 @@ The dataset is artificially created for learning and portfolio purposes. No real
 
 ---
 
+## Preview
+
+![Dashboard](preview/netflix.jpg)
+
 ## What This Project Covers
 
 - Synthetic data generation using Python.
